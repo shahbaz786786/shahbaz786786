@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shahbaz786786
+- 👋 Hi, I’m Shahbaz Ali
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Data Science & Machine Learning
